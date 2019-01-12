@@ -1,2 +1,5 @@
 # Hello-World
-First Repository
+
+#First Repository
+#Hello World in C, Python3, C++, Java.
+Thanks.
